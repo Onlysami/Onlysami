@@ -24,6 +24,9 @@ I operate at the intersection of **technology**, **design**, and **strategy**, w
 
 ---
 
+![Banner](Inova.png)
+
+
 ### 🌟 Philosophy  
 > *Design isn't just about how things look—it's about how they **work**, how they **feel**, and how they **change the world.***  
 > I design intelligent products that don’t just meet standards—they redefine them.
